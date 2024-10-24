@@ -1,0 +1,34 @@
+legend{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(5, 42, 21);
+    background-color: rgb(43, 113, 226);
+}
+fieldset{
+    margin: 20px auto;
+    width: 700px;
+    text-align: center;
+    padding-bottom: 30px;
+    background: rgb(231,12,108);
+    background: radial-gradient(circle, rgba(231,12,108,1) 0%, rgba(14,203,17,1) 100%);
+}
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 2px;  
+}
+td{
+    width:100px
+}
+th{
+    background-color: blueviolet;
+}
+tr{
+    background-color: antiquewhite;
+}
+tr:hover{
+    background-color: rgb(147, 88, 11);
+    font-size: large;
+}
